@@ -1,4 +1,4 @@
-package example;
+package org.example;
 
 public class Main {
     public static void main(String[] args) {
@@ -7,5 +7,6 @@ public class Main {
         }
         String message = "Hello, Sasha !";
         System.out.println("Hello, Sasha !");
+
     }
 }
